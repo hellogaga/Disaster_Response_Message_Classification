@@ -1,5 +1,5 @@
 # A Disaster Message Classification Tool
-The location of this Github repo is [here](https://github.com/hellogaga/Disaster_Response_Message_Classification)
+The location of this Github repo is [here](https://github.com/hellogaga/Disaster_Response_Message_Classification).
 ## Table of contents
 - [A Disaster Message Classification Tool](#a-disaster-message-classification-tool)
   - [Table of contents](#table-of-contents)
@@ -34,7 +34,7 @@ The package is based on the following package. The project can be compatible wit
   * DataResponse.db (***database to save clean data to***)
 - models
   * train_classifier.py (***training and saving model***)
-  * classifier.pkl (***saved model*** **Not uploaded to Github due to the size.) 
+  * classifier.pkl (***saved model***. It is **NOT** uploaded to Github due to the size. However, it can be downloaded from the developer's dropbox, which is available before 2020-11-30.Use this [link](https://www.dropbox.com/s/ulso40nfvhl8f4u/classifier.pkl?dl=0) to download.) 
 - README.md
 
 ## How to Use the Package. 
