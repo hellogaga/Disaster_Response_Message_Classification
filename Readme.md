@@ -1,4 +1,5 @@
 # A Disaster Message Classification Tool
+The location of this Github repo is [here](https://github.com/hellogaga/Disaster_Response_Message_Classification)
 ## Table of contents
 - [A Disaster Message Classification Tool](#a-disaster-message-classification-tool)
   - [Table of contents](#table-of-contents)
