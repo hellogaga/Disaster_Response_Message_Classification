@@ -33,7 +33,7 @@ The package is based on the following package. The project can be compatible wit
   * DataResponse.db (***database to save clean data to***)
 - models
   * train_classifier.py (***training and saving model***)
-  * classifier.pkl (***saved model***) 
+  * classifier.pkl (***saved model*** **Not uploaded to Github due to the size.) 
 - README.md
 
 ## How to Use the Package. 
